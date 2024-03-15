@@ -12,3 +12,7 @@ body {
     color: var(--texto)
     /* comentárioss */
 }
+
+.intro{ 
+    display: flex;
+}
